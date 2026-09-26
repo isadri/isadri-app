@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: app
-          image: isadri/iot-app:v2
+          image: isadri/iot-app:v1
           ports:
             - containerPort: 8888
 
